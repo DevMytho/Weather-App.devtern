@@ -5,7 +5,7 @@ Weather Detection App created using Python
 ## MOdules Used
 
 Tk => tkinter <br>
-jsons <br>
+json <br>
 datetime <br>
 requests <br>
 

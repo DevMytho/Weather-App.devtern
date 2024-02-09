@@ -2,12 +2,12 @@
 
 Weather Detection App created using Python
 
-## MOdules Used
+## Modules Used
 
-Tk => tkinter <br>
-json <br>
-datetime <br>
-requests <br>
+Tkinter <br>
+Json <br>
+Datetime <br>
+Requests <br>
 Geopy<br>
 Pytz<br>
 

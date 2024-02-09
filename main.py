@@ -1,4 +1,12 @@
-from tkinter import *
+import tkinter as tk
+import tk_tools
 import requests
 import json
-import datetime
+from datetime import datetime
+
+
+root = tk.Tk()
+root.geometry("400x400")
+root.resizable(0,0)
+
+root.title('Python Weather App')

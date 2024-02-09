@@ -8,6 +8,8 @@ Tk => tkinter <br>
 json <br>
 datetime <br>
 requests <br>
+Geopy<br>
+Pytz<br>
 
 <br>
 <br>

@@ -30,7 +30,7 @@ def getWeather():
 
     # weather
     #key=os.getenv('API_KEY')
-    api="https://api.openweathermap.org/data/3.0/weather?q="+city+ "&appid=f3929b31517763a46f124de1496a7698"
+    api="https://api.openweathermap.org/data/2.5/weather?q="+city+ "&appid=f3929b31517763a46f124de1496a7698"
     json_data = requests.get(api).json()
     condition = json_data['weather'][0]['main']
     description = json_data['weather'][0]['description']
